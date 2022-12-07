@@ -1,5 +1,7 @@
 ### hey nerds
 
+Please upvote my VS Code feature request https://github.com/microsoft/vscode/issues/166797
+
 <!--
 **JohnSpeno/JohnSpeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
